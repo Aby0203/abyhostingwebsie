@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.mrsheldon.me	TRUE	/	FALSE	1999999999	__cfduid	d0e2ac883d37d60ff31435e3113b045fb1601910166
+mrsheldon.me	TRUE	/	FALSE	1999999999	SameSite	Lax
+
